@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
    <meiHead>
       <fileDesc>
@@ -11122,26 +11122,26 @@
                         </measure>
                         <scoreDef xml:id="shtnwi6">
                            <staffGrp xml:id="satrb9k">
-                              <staffDef xml:id="s1k4084a" n="1" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="srtqi8h" n="2" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="s1ypm5mo" n="3" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="sf9d0v4" n="4" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="s1vdu943" n="5" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="s18bfvuj" n="6" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="slpn2ak" n="7" key.sig="1n" keysig.showchange="true"/>
-                              <staffDef xml:id="sn4wslo" n="8" key.sig="1n" keysig.showchange="true"/>
-                              <staffDef xml:id="sdfqrvl" n="9" key.sig="1n" keysig.showchange="true"/>
-                              <staffDef xml:id="sbjuf2g" n="10" keysig.showchange="true"/>
-                              <staffDef xml:id="s1vqbx69" n="11" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="scgdzzl" n="12" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="sjrjpgc" n="13" keysig.showchange="true"/>
-                              <staffDef xml:id="sf8j5a" n="14" keysig.showchange="true"/>
-                              <staffDef xml:id="sr5jk1q" n="15" keysig.showchange="true"/>
-                              <staffDef xml:id="ses0y34" n="16" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="s4c68xr" n="17" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="s1obyrup" n="18" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="szffqwr" n="19" key.sig="1f" keysig.showchange="true"/>
-                              <staffDef xml:id="sm7y617" n="20" key.sig="1f" keysig.showchange="true"/>
+                              <staffDef xml:id="s1k4084a" n="1" keysig="1f" />
+                              <staffDef xml:id="srtqi8h" n="2" keysig="1f"/>
+                              <staffDef xml:id="s1ypm5mo" n="3" keysig="1f"/>
+                              <staffDef xml:id="sf9d0v4" n="4" keysig="1f"/>
+                              <staffDef xml:id="s1vdu943" n="5" keysig="1f"/>
+                              <staffDef xml:id="s18bfvuj" n="6" keysig="1f"/>
+                              <staffDef xml:id="slpn2ak" n="7" keysig="0"/>
+                              <staffDef xml:id="sn4wslo" n="8" keysig="0"/>
+                              <staffDef xml:id="sdfqrvl" n="9" keysig="0"/>
+                              <staffDef xml:id="sbjuf2g" n="10"/>
+                              <staffDef xml:id="s1vqbx69" n="11" keysig="1f"/>
+                              <staffDef xml:id="scgdzzl" n="12" keysig="1f"/>
+                              <staffDef xml:id="sjrjpgc" n="13"/>
+                              <staffDef xml:id="sf8j5a" n="14"/>
+                              <staffDef xml:id="sr5jk1q" n="15"/>
+                              <staffDef xml:id="ses0y34" n="16" keysig="1f"/>
+                              <staffDef xml:id="s4c68xr" n="17" keysig="1f"/>
+                              <staffDef xml:id="s1obyrup" n="18" keysig="1f"/>
+                              <staffDef xml:id="szffqwr" n="19" keysig="1f"/>
+                              <staffDef xml:id="sm7y617" n="20" keysig="1f"/>
                            </staffGrp>
                         </scoreDef>
                         <pb xml:id="pvbrgh7"/>
@@ -16983,26 +16983,26 @@
                         </measure>
                         <scoreDef xml:id="s1623o1r">
                            <staffGrp xml:id="s14wd9n">
-                              <staffDef xml:id="s1w59otz" n="1" keysig.showchange="true"/>
-                              <staffDef xml:id="s1etk104" n="2" keysig.showchange="true"/>
-                              <staffDef xml:id="snnmgwy" n="3" keysig.showchange="true"/>
-                              <staffDef xml:id="sl8t4ik" n="4" key.sig="2s" keysig.showchange="true"/>
-                              <staffDef xml:id="selqhxk" n="5" key.sig="2s" keysig.showchange="true"/>
-                              <staffDef xml:id="sf7726r" n="6" keysig.showchange="true"/>
-                              <staffDef xml:id="s1s6xtu1" n="7" key.sig="1s" keysig.showchange="true"/>
-                              <staffDef xml:id="shknti" n="8" key.sig="1s" keysig.showchange="true"/>
-                              <staffDef xml:id="smucxf1" n="9" key.sig="1s" keysig.showchange="true"/>
-                              <staffDef xml:id="s7ylzuc" n="10" key.sig="1s" keysig.showchange="true"/>
-                              <staffDef xml:id="sx0oqq2" n="11" keysig.showchange="true"/>
-                              <staffDef xml:id="sce0m1o" n="12" keysig.showchange="true"/>
-                              <staffDef xml:id="s1tsep79" n="13" keysig.showchange="true"/>
-                              <staffDef xml:id="s4puz0m" n="14" keysig.showchange="true"/>
-                              <staffDef xml:id="sn9zrgk" n="15" keysig.showchange="true"/>
-                              <staffDef xml:id="s15ujsq" n="16" keysig.showchange="true"/>
-                              <staffDef xml:id="s1igw9yc" n="17" keysig.showchange="true"/>
-                              <staffDef xml:id="s1us2qdh" n="18" keysig.showchange="true"/>
-                              <staffDef xml:id="s2cj21n" n="19" keysig.showchange="true"/>
-                              <staffDef xml:id="sppu7bi" n="20" keysig.showchange="true"/>
+                              <staffDef xml:id="s1w59otz" n="1"/>
+                              <staffDef xml:id="s1etk104" n="2"/>
+                              <staffDef xml:id="snnmgwy" n="3"/>
+                              <staffDef xml:id="sl8t4ik" n="4" keysig="2s"/>
+                              <staffDef xml:id="selqhxk" n="5" keysig="2s"/>
+                              <staffDef xml:id="sf7726r" n="6"/>
+                              <staffDef xml:id="s1s6xtu1" n="7" keysig="1s"/>
+                              <staffDef xml:id="shknti" n="8" keysig="1s"/>
+                              <staffDef xml:id="smucxf1" n="9" keysig="1s"/>
+                              <staffDef xml:id="s7ylzuc" n="10" keysig="1s"/>
+                              <staffDef xml:id="sx0oqq2" n="11"/>
+                              <staffDef xml:id="sce0m1o" n="12"/>
+                              <staffDef xml:id="s1tsep79" n="13"/>
+                              <staffDef xml:id="s4puz0m" n="14"/>
+                              <staffDef xml:id="sn9zrgk" n="15"/>
+                              <staffDef xml:id="s15ujsq" n="16"/>
+                              <staffDef xml:id="s1igw9yc" n="17"/>
+                              <staffDef xml:id="s1us2qdh" n="18"/>
+                              <staffDef xml:id="s2cj21n" n="19"/>
+                              <staffDef xml:id="sppu7bi" n="20"/>
                            </staffGrp>
                         </scoreDef>
                         <pb xml:id="prkfvvw"/>
