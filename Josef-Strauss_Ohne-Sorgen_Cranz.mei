@@ -237,7 +237,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="all">
-                  <expansion xml:id="Expansion" plist="#Polka-withRep #Trio-withRep #Polka-withRep-toDalSegno #Schluss"/>
+                  <expansion xml:id="default-expansion" plist="#Polka-withRep #Trio-withRep #Polka-withRep-toDalSegno #Schluss"/>
                   <section xml:id="Polka">
                      <expansion xml:id="Polka-withRep" plist="#Polka-A1 Polka-B1 #Polka-B-ending1 #Polka-B1 #Polka-B-ending2 #Polka-A2-p1 #Polka-A2-p2"/>
                      <expansion xml:id="Polka-withRep-toDalSegno" plist="#Polka-A1 Polka-B1 #Polka-B-ending1 #Polka-B1 #Polka-B-ending2 #Polka-A2-p1"/>
@@ -7810,7 +7810,6 @@
                                  </chord>
                                  <rest xml:id="r1cukswu" dur="8"/>
                                  <rest xml:id="rvff8bd" dur="4"/>
-                                 <rest xml:id="r12fcidj" dur="16"/>
                               </layer>
                            </staff>
                            <staff xml:id="s1hb1d7k" n="12">
