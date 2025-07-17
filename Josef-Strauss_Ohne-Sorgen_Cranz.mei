@@ -11128,9 +11128,9 @@
                               <staffDef xml:id="sf9d0v4" n="4" keysig="1f"/>
                               <staffDef xml:id="s1vdu943" n="5" keysig="1f"/>
                               <staffDef xml:id="s18bfvuj" n="6" keysig="1f"/>
-                              <staffDef xml:id="slpn2ak" n="7" keysig="0"/>
-                              <staffDef xml:id="sn4wslo" n="8" keysig="0"/>
-                              <staffDef xml:id="sdfqrvl" n="9" keysig="0"/>
+                              <staffDef xml:id="slpn2ak" n="7"/>
+                              <staffDef xml:id="sn4wslo" n="8"/>
+                              <staffDef xml:id="sdfqrvl" n="9"/>
                               <staffDef xml:id="sbjuf2g" n="10"/>
                               <staffDef xml:id="s1vqbx69" n="11" keysig="1f"/>
                               <staffDef xml:id="scgdzzl" n="12" keysig="1f"/>
