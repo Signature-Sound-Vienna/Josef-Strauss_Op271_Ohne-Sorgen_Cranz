@@ -124,7 +124,7 @@
                         </staffGrp>
                         <staffGrp xml:id="st1m323">
                            <grpSym xml:id="g1vhk5hz" symbol="brace"/>
-                           <staffDef xml:id="P9" n="9" lines="5" ppq="4" trans.diat="-1" trans.semi="-2">
+                           <staffDef xml:id="P9" n="9" lines="5" ppq="4" trans.diat="3" trans.semi="5">
                               <label xml:id="l1wge4dl">1., 2. Trompete<lb xml:id="ltt31zr"/>in F</label>
                               <labelAbbr xml:id="ls2udq8">1., 2. Trp.<lb xml:id="l13vrp7b"/>in F</labelAbbr>
                               <instrDef xml:id="i1iaaa9a" midi.channel="11" midi.instrnum="56" midi.volume="78.00%"/>
@@ -11153,6 +11153,11 @@
                         <scoreDef xml:id="s1hkqwwt">
                            <meterSig xml:id="ml0gdxq" count="2" unit="4"/>
                         </scoreDef>
+                        <scoreDef xml:id="sd-trans-st13-m51">
+                           <staffGrp xml:id="sg-trans-st13-m51">
+                              <staffDef xml:id="st-trans-st13-m51" n="13" trans.diat="14" trans.semi="24"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="m1erj9fn" n="51">
                            <staff xml:id="s1wz1oxj" n="1">
                               <layer xml:id="lfck01k" n="1">
@@ -14714,6 +14719,11 @@
                               </layer>
                            </staff>
                         </measure>
+                        <scoreDef xml:id="sd-trans-st13-m68">
+                           <staffGrp xml:id="sg-trans-st13-m68">
+                              <staffDef xml:id="st-trans-st13-m68" n="13" trans.diat="0" trans.semi="0"/>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="mz7wppc" n="68">
                            <staff xml:id="sh8r8f8" n="1">
                               <layer xml:id="l1bsde61" n="1">
