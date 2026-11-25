@@ -4094,7 +4094,7 @@
                         </measure>
                      </section>
                      <section xml:id="Polka-B">
-                        <section xml:id="Polka-B-1">
+                        <section xml:id="Polka-B1">
                            <measure xml:id="m1d22g0a" left="rptstart" n="20">
                               <staff xml:id="s1urxstq" n="1">
                                  <layer xml:id="l19ixu4h" n="1">
@@ -12420,7 +12420,7 @@
                            <staff xml:id="s1lqvrfb" n="7">
                               <layer xml:id="lij030s" n="1">
                                  <chord xml:id="cy795x9" dur="2" stem.dir="up">
-                                    <note xml:id="ny8hyfo" oct="4" pname="f"/>
+                                    <note xml:id="ny8hyfo" accid.ges="s" oct="4" pname="f"/>
                                     <note xml:id="n1o0xja7" oct="4" pname="b"/>
                                  </chord>
                               </layer>
@@ -12447,7 +12447,7 @@
                                  </chord>
                                  <rest xml:id="r1rpfb85" dur="8"/>
                                  <chord xml:id="cok754" dur="8" stem.dir="down">
-                                    <note xml:id="ntt05r9" oct="4" pname="f"/>
+                                    <note xml:id="ntt05r9" accid.ges="s" oct="4" pname="f"/>
                                     <note xml:id="n1eq30xk" oct="4" pname="a"/>
                                  </chord>
                                  <rest xml:id="rc4a4zs" dur="8"/>
@@ -13666,12 +13666,12 @@
                            <staff xml:id="s61hgq0" n="8">
                               <layer xml:id="laitpre" n="1">
                                  <chord xml:id="c137sivz" dur="8" stem.dir="up">
-                                    <note xml:id="nxw0ek0" oct="4" pname="f"/>
+                                    <note xml:id="nxw0ek0" accid.ges="s" oct="4" pname="f"/>
                                     <note xml:id="n168djr2" oct="4" pname="a"/>
                                  </chord>
                                  <rest xml:id="r1m01y9n" dur="8"/>
                                  <chord xml:id="c11grj1r" dur="8" stem.dir="up">
-                                    <note xml:id="n1sho13m" oct="4" pname="f"/>
+                                    <note xml:id="n1sho13m" accid.ges="s" oct="4" pname="f"/>
                                     <note xml:id="n1vupj59" oct="4" pname="b"/>
                                  </chord>
                                  <rest xml:id="r17nfnhl" dur="8"/>
@@ -13800,7 +13800,6 @@
                            </staff>
                            <tie xml:id="tpn5avp" startid="#nmfgs2l" endid="#nfaovn0"/>
                            <slur xml:id="szscp44" startid="#n1h735u" endid="#nq2fly" curvedir="above"/>
-                           <slur xml:id="s1sbb68b" startid="#n14dy1g6" endid="#n1rlm0qq" curvedir="below"/>
                         </measure>
                         <measure xml:id="m6vw3bk" n="64">
                            <staff xml:id="s1dxd3c2" n="1">
